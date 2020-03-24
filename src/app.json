@@ -40,5 +40,6 @@
       "activeIcon": "static/tabs/orders-active.png"
     }],
     "position": "bottom"
-  }
+  },
+  "debug":true
 }
